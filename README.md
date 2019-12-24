@@ -6,7 +6,11 @@
 1.five common features of Angular's template syntax:
 
 *ngFor
+
 *ngIf
+
 Interpolation {{ }}
+
 Property binding [ ]
+
 Event binding ( )
