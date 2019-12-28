@@ -30,3 +30,4 @@ input using component
   
   Output using component
   @output()
+  For output events Recall that it's the parent, product list component—not the product alerts component—that acts when the child raises the event. (Choose the parent that acts when the event occurs)
