@@ -14,3 +14,13 @@ Interpolation {{ }}
 Property binding [ ]
 
 Event binding ( )
+
+2.Components
+
+A component consists of three things:
+
+A component class that handles data and functionality. In the previous section, the product data and the share() method in the component class handle data and functionality, respectively.
+
+An HTML template that determines the UI. In the previous section, the product list's HTML template displays the name, description, and a "Share" button for each product.
+
+Component-specific styles that define the look and feel. Though product list does not define any styles, this is where component CSS resides.
