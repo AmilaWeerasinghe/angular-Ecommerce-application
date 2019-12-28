@@ -24,3 +24,9 @@ A component class that handles data and functionality. In the previous section, 
 An HTML template that determines the UI. In the previous section, the product list's HTML template displays the name, description, and a "Share" button for each product.
 
 Component-specific styles that define the look and feel. Though product list does not define any styles, this is where component CSS resides.
+
+input using component
+  @Input()
+  
+  Output using component
+  @output()
