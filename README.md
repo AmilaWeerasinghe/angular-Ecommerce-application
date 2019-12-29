@@ -51,3 +51,5 @@ input using component
 4.Using route information
 
 inject the ActivatedRoute into the constructor.
+
+The ActivatedRoute is specific to each routed component loaded by the Angular Router. It contains information about the route, its parameters, and additional data associated with the route.
