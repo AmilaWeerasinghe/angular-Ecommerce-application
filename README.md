@@ -48,3 +48,4 @@ input using component
    
    The routerLink defines how the user navigates to the route (or URL) declaratively in the component template.
 
+4.Using route information
