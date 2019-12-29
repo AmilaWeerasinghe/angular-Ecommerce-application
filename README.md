@@ -34,3 +34,5 @@ input using component
   For output events Recall that it's the parent, product list component—not the product alerts component—that acts when the child raises the event. (Choose the parent that acts when the event occurs)
   
  I've learned about the foundation of Angular: components and template syntax. I've also learned how the component class and template interact, and how components communicate with each other.Successfully completed
+
+3.Routing
