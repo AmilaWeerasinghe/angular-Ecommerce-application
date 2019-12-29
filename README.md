@@ -41,6 +41,9 @@ input using component
  
  Steps 
    Generate component
+   
    Add router path in app.module.ts
+   
    Add router link
+   
    The routerLink defines how the user navigates to the route (or URL) declaratively in the component template.
