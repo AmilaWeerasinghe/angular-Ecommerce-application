@@ -53,3 +53,7 @@ input using component
 inject the ActivatedRoute into the constructor.
 
 The ActivatedRoute is specific to each routed component loaded by the Angular Router. It contains information about the route, its parameters, and additional data associated with the route.
+
+Angular calls ngOnInit() shortly after creating a component.
+
+The route parameters correspond to the path variables defined in the route. The productId is provided from the URL that was matched to the route. You use the productId to display the details for each unique product.
