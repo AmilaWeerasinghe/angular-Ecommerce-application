@@ -36,3 +36,11 @@ input using component
  I've learned about the foundation of Angular: components and template syntax. I've also learned how the component class and template interact, and how components communicate with each other.Successfully completed
 
 3.Routing
+
+ Angular router enables you to show different components and data to the user based on where the user is in the application. The router enables navigation from one view to the next as users perform application tasks:
+ 
+ Steps 
+   Generate component
+   Add router path in app.module.ts
+   Add router link
+   The routerLink defines how the user navigates to the route (or URL) declaratively in the component template.
