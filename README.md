@@ -69,3 +69,5 @@ Services are the place where you share data between parts of your application. F
 Create Cart Service
 
 Use Cart Service
+
+Retrieve shipping prices
