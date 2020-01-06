@@ -79,3 +79,5 @@ The Angular HTTP client (HttpClient) is a built-in way to fetch data from extern
 HTTP client to retrieve shipping prices from an external file.
 
 Forms
+
+Deploy the completed app oon Firebase successfully
