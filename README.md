@@ -71,3 +71,7 @@ Create Cart Service
 Use Cart Service
 
 Retrieve shipping prices
+
+HTTP CLient
+
+The Angular HTTP client (HttpClient) is a built-in way to fetch data from external APIs and provide them to your application as a stream
